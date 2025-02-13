@@ -1,0 +1,12 @@
+{
+  "R1": {
+      "IP": "198.51.100.1",
+      "Username": "admin",
+      "Password": "admin"
+  },
+  "R2": {
+      "IP": "198.51.100.3",
+      "Username": "admin",
+      "Password": "admin"
+  }
+}
